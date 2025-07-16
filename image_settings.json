@@ -1,0 +1,258 @@
+{
+    "1": {
+        "YEAR": 2018,
+        "conv_factor": 57,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "U",
+        "conv_error": 1
+    },
+    "2": {
+        "YEAR": 2022,
+        "conv_factor": 88,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "?",
+        "conv_error": 2
+    },
+    "3": {
+        "YEAR": 2018,
+        "conv_factor": 43,
+        "n of nanowires": 0,
+        "min_area": 0.00270416441319632,
+        "temp": "C",
+        "conv_error": 1
+    },
+    "4": {
+        "YEAR": 2018,
+        "conv_factor": 86,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "C",
+        "conv_error": 2
+    },
+    "5": {
+        "YEAR": 2019,
+        "conv_factor": 37.5,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "6": {
+        "YEAR": 2019,
+        "conv_factor": 46,
+        "n of nanowires": 2,
+        "min_area": 0.0212665406427221,
+        "temp": "CD",
+        "conv_error": 1
+    },
+    "7": {
+        "YEAR": 2018,
+        "conv_factor": 5.7,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "C",
+        "conv_error": 0.1
+    },
+    "8": {
+        "YEAR": 2019,
+        "conv_factor": 9.4,
+        "n of nanowires": 3,
+        "min_area": 0.169760072430964,
+        "temp": "C",
+        "conv_error": 0.2
+    },
+    "9": {
+        "YEAR": 2018,
+        "conv_factor": 148,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "D",
+        "conv_error": 2
+    },
+    "10": {
+        "YEAR": 2018,
+        "conv_factor": 57,
+        "n of nanowires": 0,
+        "min_area": 0.0184672206832872,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "11": {
+        "YEAR": 2018,
+        "conv_factor": 28.5,
+        "n of nanowires": 0,
+        "min_area": 0.0677131425053863,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "12": {
+        "YEAR": 2019,
+        "conv_factor": 59,
+        "n of nanowires": 1,
+        "min_area": 0.00430910657856938,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "13": {
+        "YEAR": 2018,
+        "conv_factor": 57,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "U",
+        "conv_error": 2
+    },
+    "14": {
+        "YEAR": 2018,
+        "conv_factor": 13.8,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "U",
+        "conv_error": 0.2
+    },
+    "15": {
+        "YEAR": 2019,
+        "conv_factor": 15.6,
+        "n of nanowires": 10,
+        "min_area": 0.143819855358317,
+        "temp": "CD",
+        "conv_error": 0.2
+    },
+    "16": {
+        "YEAR": 2019,
+        "conv_factor": 28,
+        "n of nanowires": 1,
+        "min_area": 0.0191326530612245,
+        "temp": "C",
+        "conv_error": 1
+    },
+    "17": {
+        "YEAR": 2019,
+        "conv_factor": 42,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "C",
+        "conv_error": 1
+    },
+    "18": {
+        "YEAR": 2019,
+        "conv_factor": 101,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "D",
+        "conv_error": 2
+    },
+    "19": {
+        "YEAR": 2019,
+        "conv_factor": 37.5,
+        "n of nanowires": 1,
+        "min_area": 0.0142222222222222,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "20": {
+        "YEAR": 2019,
+        "conv_factor": 59,
+        "n of nanowires": 1,
+        "min_area": 0.00287273771904625,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "21": {
+        "YEAR": 2019,
+        "conv_factor": 56.5,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "22": {
+        "YEAR": 2019,
+        "conv_factor": 13.2,
+        "n of nanowires": 0,
+        "min_area": 0,
+        "temp": "U",
+        "conv_error": 0.2
+    },
+    "23": {
+        "YEAR": 2019,
+        "conv_factor": 69.5,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "CD",
+        "conv_error": 1
+    },
+    "24": {
+        "YEAR": 2019,
+        "conv_factor": 72.5,
+        "n of nanowires": 1,
+        "min_area": 0.0171224732461355,
+        "temp": "CD",
+        "conv_error": 1
+    },
+    "25": {
+        "YEAR": 2019,
+        "conv_factor": 75.5,
+        "n of nanowires": 1,
+        "min_area": 0.0157887811938073,
+        "temp": "CD",
+        "conv_error": 1
+    },
+    "26": {
+        "YEAR": 2019,
+        "conv_factor": 66.5,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "C",
+        "conv_error": 1
+    },
+    "27": {
+        "YEAR": 2019,
+        "conv_factor": 56.7,
+        "n of nanowires": 1,
+        "min_area": 0.004665789498241,
+        "temp": "C",
+        "conv_error": 1
+    },
+    "28": {
+        "YEAR": 2019,
+        "conv_factor": 50,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "UC",
+        "conv_error": 1
+    },
+    "29": {
+        "YEAR": 2019,
+        "conv_factor": 134,
+        "n of nanowires": 1,
+        "min_area": 0,
+        "temp": "C",
+        "conv_error": 2
+    },
+    "30": {
+        "YEAR": 2019,
+        "conv_factor": 111,
+        "n of nanowires": 2,
+        "min_area": 0,
+        "temp": "U",
+        "conv_error": 2
+    },
+    "31": {
+        "YEAR": 2018,
+        "conv_factor": 94,
+        "n of nanowires": 1,
+        "min_area": 0.00113173381620643,
+        "temp": "U",
+        "conv_error": 2
+    },
+    "32": {
+        "YEAR": 2018,
+        "conv_factor": 71.5,
+        "n of nanowires": 0,
+        "min_area": 0.0195608587216979,
+        "temp": "U",
+        "conv_error": 1
+    }
+}
